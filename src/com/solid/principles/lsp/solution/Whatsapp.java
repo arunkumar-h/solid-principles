@@ -1,7 +1,7 @@
 package com.solid.principles.lsp.solution;
 
 public class Whatsapp implements SocialMedia, SocialVideoCallManager {
-    
+
     public void chatWithFriend() {
 
     }
